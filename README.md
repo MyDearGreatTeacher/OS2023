@@ -21,6 +21,10 @@
 - [在树莓派上安装 ZoneMinder 实现摄像头监控](https://shumeipai.nxez.com/2022/10/29/install-zoneminder-on-the-raspberry-pi-for-camera-surveillance.html)
 - [闲置树莓派：种朵花然后做延时摄影吧](https://shumeipai.nxez.com/2022/05/18/plant-a-flower-and-do-time-lapse-photography.html)
 - [树莓派多网卡、内外网路由的配置方法](https://shumeipai.nxez.com/2022/06/11/raspberry-pi-internal-and-external-network-routing-configuration.html)
+
+##
+- [智能硬件與機器視覺：基於樹莓派、Python 和 OpenCV  機械工業 2020](https://www.tenlong.com.tw/products/9787111667698?list_name=rd)
+- [AIOT 與 OpenCV 實戰應用：Python、樹莓派、物聯網與機器視覺, 3/e 朱克剛 碁峰資訊 2021]()
 ## 樹莓派第4代Raspberry Pi 4 硬體規格
 - 樹莓派第4代Raspberry Pi 4 Model B單板電腦4GB RAM
   - 樹莓派第4代 Raspberry Pi 4 Model B 單板電腦 4GB RAM
