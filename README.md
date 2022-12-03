@@ -11,6 +11,7 @@
 - 測試各種作業系統
   - Raspberry Pi OS, our official supported operating system
   - [OpenWrt for RPi 4](https://github.com/damianperera/openwrt-rpi)
+    - [深入淺出智能物聯網 OpenWrt 操作系統 孫冰 鄭淇文 李興仁 人民郵電 2022](https://www.tenlong.com.tw/products/9787115586230?list_name=lv)
   - Ubuntu
     - [最新發表的Ubuntu Desktop 22.04](https://www.ithome.com.tw/review/150668?fbclid=IwAR3j-s9R42Xv-uUG-ljf9yMhHJBhlcIIhlOIV4Yi2Y6Wu9j6cEZtB_te5cA)
     - 增加了新的AD個人端程式，稱為ADsys，當中包含Ubuntu整合AD需要的所有功能，像是admx＼與adml範本檔，可補充Linux系統既有SSSD、PAM驗證模組（Pluggable Authentication Modules）的不足
@@ -20,7 +21,7 @@
 - [在树莓派上安装 ZoneMinder 实现摄像头监控](https://shumeipai.nxez.com/2022/10/29/install-zoneminder-on-the-raspberry-pi-for-camera-surveillance.html)
 - [闲置树莓派：种朵花然后做延时摄影吧](https://shumeipai.nxez.com/2022/05/18/plant-a-flower-and-do-time-lapse-photography.html)
 - [树莓派多网卡、内外网路由的配置方法](https://shumeipai.nxez.com/2022/06/11/raspberry-pi-internal-and-external-network-routing-configuration.html)
-## 
+## 樹莓派第4代Raspberry Pi 4 硬體規格
 - 樹莓派第4代Raspberry Pi 4 Model B單板電腦4GB RAM
   - 樹莓派第4代 Raspberry Pi 4 Model B 單板電腦 4GB RAM
     - ● 英國原廠正品
