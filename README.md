@@ -7,6 +7,7 @@
 ## Raspberry Pi 400
 ## 實作主題:使用Raspberry Pi 4進行各種作業系統的測試
 - [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/computers/os.html)
+- [台南樹莓派](https://www.facebook.com/206573796608093/posts/623259521606183/)
 - 測試各種作業系統
   - Raspberry Pi OS, our official supported operating system
   - [OpenWrt for RPi 4](https://github.com/damianperera/openwrt-rpi)
