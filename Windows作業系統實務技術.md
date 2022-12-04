@@ -6,6 +6,8 @@
   - Event viewer
   - computer management
   - windows defender  
+- windows 安全技術
+- windows 安全測試
 - Windows commands
 - powershell
 - windows registry 分析
