@@ -10,8 +10,15 @@
 - powershell
 - windows registry 分析
 - windows Forensics
-
+## 認證
+- [Training and certification guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J5ea)
+- [Browse Certifications and Exams](https://learn.microsoft.com/en-us/certifications/browse/)
+- [Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure](https://learn.microsoft.com/en-us/certifications/exams/az-800)
+- [Exam AZ-801: Configuring Windows Server Hybrid Advanced Services](https://learn.microsoft.com/en-us/certifications/exams/az-801)
 ## 參考資訊
+- [Windows Server 2022 Administration Fundamentals - Third Edition: Dauti, Bekim Packt Publishing 2022]
+- Windows Server Automation with PowerShell Cookbook - Fourth Edition: Powerful ways to automate and manage Windows administrative tasks Lee, Thomas Packt Publishing 2021
+
 #### [Windows Server 2022 系統與網站建置實務 戴有煒 碁峰資訊 2022](https://www.tenlong.com.tw/products/9786263240308?list_name=srh)
 ```
 第1章｜Windows Server 2022概觀
