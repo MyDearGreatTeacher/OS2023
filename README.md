@@ -5,6 +5,7 @@
   - Linux 
 
 ## Raspberry Pi 400
+- [台灣現貨 Raspberry Pi 400 主機鍵盤套件 樹莓派4B桌機電腦套件組](https://shopee.tw/%E5%8F%B0%E7%81%A3%E7%8F%BE%E8%B2%A8-Raspberry-Pi-400-%E4%B8%BB%E6%A9%9F%E9%8D%B5%E7%9B%A4%E5%A5%97%E4%BB%B6-%E6%A8%B9%E8%8E%93%E6%B4%BE4B%E6%A1%8C%E6%A9%9F%E9%9B%BB%E8%85%A6%E5%A5%97%E4%BB%B6%E7%B5%84-i.143152281.5970532814)
 ## 實作主題:使用Raspberry Pi 4進行各種作業系統的測試
 - [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/computers/os.html)
 - [台南樹莓派](https://www.facebook.com/206573796608093/posts/623259521606183/)
@@ -15,7 +16,7 @@
   - Ubuntu
     - [最新發表的Ubuntu Desktop 22.04](https://www.ithome.com.tw/review/150668?fbclid=IwAR3j-s9R42Xv-uUG-ljf9yMhHJBhlcIIhlOIV4Yi2Y6Wu9j6cEZtB_te5cA)
     - 增加了新的AD個人端程式，稱為ADsys，當中包含Ubuntu整合AD需要的所有功能，像是admx＼與adml範本檔，可補充Linux系統既有SSSD、PAM驗證模組（Pluggable Authentication Modules）的不足
-## 树莓派系統建置
+## 树莓派系統建置  [奧斯丁國際 OURSTEAM International]()
 - [Picamera2 库 + TensorFlow Lite 实现实时对象检测](https://shumeipai.nxez.com/2022/05/16/using-the-picamera2-library-with-tensorflow-lite.html)
 - [树莓派 + EMQX + eKuiper 搭建智能家居网关，实现边缘计算](https://shumeipai.nxez.com/2022/09/27/raspberry-pi-emqx-ekuiper-to-build-a-smart-home-gateway.html?fbclid=IwAR3rbv96KMHDGrwMu8u20HdXxP0eHRgEBXg4HP_DWhZPeUhhkln4d8i5uno)
 - [在树莓派上安装 ZoneMinder 实现摄像头监控](https://shumeipai.nxez.com/2022/10/29/install-zoneminder-on-the-raspberry-pi-for-camera-surveillance.html)
