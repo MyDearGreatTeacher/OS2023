@@ -16,17 +16,17 @@
   - Ubuntu
     - [最新發表的Ubuntu Desktop 22.04](https://www.ithome.com.tw/review/150668?fbclid=IwAR3j-s9R42Xv-uUG-ljf9yMhHJBhlcIIhlOIV4Yi2Y6Wu9j6cEZtB_te5cA)
     - 增加了新的AD個人端程式，稱為ADsys，當中包含Ubuntu整合AD需要的所有功能，像是admx＼與adml範本檔，可補充Linux系統既有SSSD、PAM驗證模組（Pluggable Authentication Modules）的不足
-## 树莓派系統建置  [奧斯丁國際 OURSTEAM International]()
+## 树莓派系統建置  
 - [Picamera2 库 + TensorFlow Lite 实现实时对象检测](https://shumeipai.nxez.com/2022/05/16/using-the-picamera2-library-with-tensorflow-lite.html)
 - [树莓派 + EMQX + eKuiper 搭建智能家居网关，实现边缘计算](https://shumeipai.nxez.com/2022/09/27/raspberry-pi-emqx-ekuiper-to-build-a-smart-home-gateway.html?fbclid=IwAR3rbv96KMHDGrwMu8u20HdXxP0eHRgEBXg4HP_DWhZPeUhhkln4d8i5uno)
 - [在树莓派上安装 ZoneMinder 实现摄像头监控](https://shumeipai.nxez.com/2022/10/29/install-zoneminder-on-the-raspberry-pi-for-camera-surveillance.html)
 - [闲置树莓派：种朵花然后做延时摄影吧](https://shumeipai.nxez.com/2022/05/18/plant-a-flower-and-do-time-lapse-photography.html)
 - [树莓派多网卡、内外网路由的配置方法](https://shumeipai.nxez.com/2022/06/11/raspberry-pi-internal-and-external-network-routing-configuration.html)
 
-##
+## 參考資料
 - [智能硬件與機器視覺：基於樹莓派、Python 和 OpenCV  機械工業 2020](https://www.tenlong.com.tw/products/9787111667698?list_name=rd)
 - [AIOT 與 OpenCV 實戰應用：Python、樹莓派、物聯網與機器視覺, 3/e 朱克剛 碁峰資訊 2021]()
-## 樹莓派第4代Raspberry Pi 4 硬體規格
+## 樹莓派第4代Raspberry Pi 4 硬體規格 [奧斯丁國際 OURSTEAM International](https://shopee.tw/oursteamtw?shopCollection=16719189#product_list)
 - 樹莓派第4代Raspberry Pi 4 Model B單板電腦4GB RAM
   - 樹莓派第4代 Raspberry Pi 4 Model B 單板電腦 4GB RAM
     - ● 英國原廠正品
