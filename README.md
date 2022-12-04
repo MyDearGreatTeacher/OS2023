@@ -6,6 +6,8 @@
 
 ## Raspberry Pi 400
 - [台灣現貨 Raspberry Pi 400 主機鍵盤套件 樹莓派4B桌機電腦套件組](https://shopee.tw/%E5%8F%B0%E7%81%A3%E7%8F%BE%E8%B2%A8-Raspberry-Pi-400-%E4%B8%BB%E6%A9%9F%E9%8D%B5%E7%9B%A4%E5%A5%97%E4%BB%B6-%E6%A8%B9%E8%8E%93%E6%B4%BE4B%E6%A1%8C%E6%A9%9F%E9%9B%BB%E8%85%A6%E5%A5%97%E4%BB%B6%E7%B5%84-i.143152281.5970532814)
+- 實作
+  - [【開箱文】Raspberry Pi 400 介紹與 Ubuntu 系統安裝](https://www.circuspi.com/index.php/2021/02/09/raspberry-pi-400-ubuntu/) 
 ## 實作主題:使用Raspberry Pi 4進行各種作業系統的測試
 - [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/computers/os.html)
 - [台南樹莓派](https://www.facebook.com/206573796608093/posts/623259521606183/)
