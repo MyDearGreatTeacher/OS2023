@@ -4,6 +4,10 @@
   - Windows 
   - Linux 
 
+## 無人機作業系統
+- [A Study on UAV Operating System Security and Future Research Challenges](https://ieeexplore.ieee.org/document/9376151)
+- LynxOS 7.0 Real-Time Operating System (RTOS)  [官方網址](https://www.unmannedsystemstechnology.com/company/lynx-software-technologies/)
+
 ## Raspberry Pi 400
 - [台灣現貨 Raspberry Pi 400 主機鍵盤套件 樹莓派4B桌機電腦套件組](https://shopee.tw/%E5%8F%B0%E7%81%A3%E7%8F%BE%E8%B2%A8-Raspberry-Pi-400-%E4%B8%BB%E6%A9%9F%E9%8D%B5%E7%9B%A4%E5%A5%97%E4%BB%B6-%E6%A8%B9%E8%8E%93%E6%B4%BE4B%E6%A1%8C%E6%A9%9F%E9%9B%BB%E8%85%A6%E5%A5%97%E4%BB%B6%E7%B5%84-i.143152281.5970532814)
 - 實作
